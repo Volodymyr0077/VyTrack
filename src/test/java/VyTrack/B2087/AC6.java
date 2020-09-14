@@ -45,6 +45,7 @@ public class AC6 {
           Thread.sleep(500);
             each.click();
         }
+      driver.close();
 
 
     }
