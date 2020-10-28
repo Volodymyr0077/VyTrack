@@ -10,6 +10,7 @@ public class{
 				continue;
 			}
 			System.out.println(i);
+			
 		}
 	}
 }
